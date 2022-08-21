@@ -8,7 +8,7 @@ Ref;) Output of Messenger/Messenger.sol
 
 ### Troubleshooting 
 #### Major Changes
-current version: 0.5.0^
+current version: ^0.5.0
 
 1. Constructor function declaration
     - from    function [contract name]() public {}
